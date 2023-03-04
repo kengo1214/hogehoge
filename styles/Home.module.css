@@ -1,8 +1,9 @@
 .body {
   border: 5px solid red;
-  background-color: white;
+  background-color: whtie;
   width: 100%;
   min-height: calc(100vh - 100px);
   position: absolute;
   top: 100px;
 }
+/*# sourceMappingURL=Home.module.css.map */
